@@ -1,2 +1,4 @@
 Dados cartão.
 Houve uma alteração no código da procedure.
+
+Alteração versão 10.0.
